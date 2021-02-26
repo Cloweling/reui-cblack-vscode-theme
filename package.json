@@ -1,10 +1,10 @@
 {
-  "name": "reui",
-  "version": "1.1.4",
-  "displayName": "ReUI",
+  "name": "reui-cblack",
+  "version": "1",
+  "displayName": "ReUI Cblack",
   "description": "A VS Code theme based on React's website colors",
-  "publisher": "barrsan",
-  "author": "Alex Baretsky <41ax@mail.ru>",
+  "publisher": "Cloweling",
+  "author": "Renato Ayau <renato.ayau@mail.ru>",
   "icon": "icon.png",
   "repository": {
     "type": "git",
@@ -20,24 +20,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "ReUI Default Bordered (react)",
+        "label": "ReUI CBlack",
         "uiTheme": "vs-dark",
-        "path": "./themes/reui-react-default-bordered.json"
-      },
-      {
-        "label": "ReUI Default Bordered (react-native)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/reui-react-native-default-bordered.json"
-      },
-      {
-        "label": "ReUI Mirage (react)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/reui-react-mirage.json"
-      },
-      {
-        "label": "ReUI Mirage (react-native)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/reui-react-native-mirage.json"
+        "path": "./themes/reui-cblack.json"
       }
     ]
   },
